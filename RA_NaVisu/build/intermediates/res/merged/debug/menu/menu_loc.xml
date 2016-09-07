@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/M109"
+        android:title="@string/M109"
+        android:textSize="10dp"/>
+    <item android:id="@+id/L114"
+        android:title="@string/L114"
+        android:textSize="9dp"/>
+    <!--<item android:id="@+id/pointO"
+        android:title="@string/pointO"
+        android:textSize="9dp"/>
+    <item android:id="@+id/pointC"
+        android:title="@string/pointC"
+        android:textSize="9dp" />
+    <item android:id="@+id/pointP"
+        android:title="@string/pointP"
+        android:textSize="9dp"/>
+    <item android:id="@+id/pointK1"
+        android:title="@string/pointK1"
+        android:textSize="9dp" />
+    <item android:id="@+id/pointK2"
+        android:title="@string/pointK2"/>-->
+    <item android:id="@+id/poste_de_garde"
+        android:title="@string/poste_de_garde"/>
+    <item android:id="@+id/entréeRDE"
+        android:title="@string/entréeRDE" />
+    <item android:id="@+id/entréeSchreu"
+        android:title="@string/entréeSchreu" />
+    <item android:id="@+id/stade"
+        android:title="@string/stade"/>
+    <item android:id="@+id/coursTennis"
+        android:title="@string/coursTennis" />
+    <item android:id="@+id/terrainBasket"
+        android:title="@string/terrainBasket" />
+    <item android:id="@+id/passerelleEM"
+        android:title="@string/passerelleEM" />
+    <item android:id="@+id/passerelleDL"
+        android:title="@string/passerelleDL" />
+    <!--<item android:id="@+id/avion"
+        android:title="@string/avion" />-->
+</menu>

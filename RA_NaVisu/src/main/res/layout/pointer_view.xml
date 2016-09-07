@@ -1,0 +1,17 @@
+<net.joinpad.arrakis.layout.StereoGroup xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <net.joinpad.arrakis.layout.StereoLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/pointer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/pointer" />
+    </net.joinpad.arrakis.layout.StereoLayout>
+</net.joinpad.arrakis.layout.StereoGroup>

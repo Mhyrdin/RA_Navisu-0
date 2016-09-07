@@ -1,0 +1,69 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/black">
+
+
+    <FrameLayout
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+
+    </FrameLayout>
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="end|bottom"
+        android:orientation="horizontal">
+
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Load static data"
+            android:id="@+id/bStaticData"
+            android:layout_row="0"
+            android:layout_column="0"
+            android:background="#7e0bbea6" />
+
+        <ToggleButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="GPS"
+            android:id="@+id/GPSswitch"
+            android:layout_row="0"
+            android:layout_column="5"
+            android:layout_gravity="right|top"
+            android:checked="false"
+            android:textColor="#dc0000"
+            android:textOff="GPS off"
+            android:textOn="GPS on" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="26dp"
+            android:text="Current location:"
+            android:layout_row="11"
+            android:layout_column="2"
+            android:layout_gravity="bottom"
+            android:background="#1b1b1b"
+            android:layout_marginRight="4dp" />
+
+        <TextView
+            android:id="@+id/actual_location_textview"
+            android:layout_width="wrap_content"
+            android:layout_height="26dp"
+            android:text="48.45665484, -84,45612355"
+            android:layout_row="11"
+            android:layout_column="3"
+            android:layout_gravity="center|bottom"
+            android:background="#1b1b1b" />
+
+
+    </GridLayout>
+
+
+</FrameLayout>

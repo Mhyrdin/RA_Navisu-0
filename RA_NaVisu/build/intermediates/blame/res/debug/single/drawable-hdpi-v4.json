@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/build/intermediates/res/merged/debug/drawable-hdpi-v4/pointer.png",
+        "source": "/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/src/main/res/drawable-hdpi/pointer.png"
+    },
+    {
+        "merged": "/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/build/intermediates/res/merged/debug/drawable-hdpi-v4/logo_400_green.png",
+        "source": "/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/src/main/res/drawable-hdpi/logo_400_green.png"
+    },
+    {
+        "merged": "/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/build/intermediates/res/merged/debug/drawable-hdpi-v4/on.png",
+        "source": "/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/src/main/res/drawable-hdpi/on.png"
+    },
+    {
+        "merged": "/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/build/intermediates/res/merged/debug/drawable-hdpi-v4/depart.png",
+        "source": "/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/src/main/res/drawable-hdpi/depart.png"
+    }
+]

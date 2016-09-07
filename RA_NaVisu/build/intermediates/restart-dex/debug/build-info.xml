@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64"
+    api-level="23"
+    density="tvdpi"
+    format="7"
+    timestamp="33517921252314"
+    token="6056341218405117833" >
+
+    <task
+        name="javac"
+        duration="4131" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="227" />
+    <task
+        name="verifier"
+        duration="15" />
+
+    <artifact
+        location="/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/build/outputs/apk/RA_NaVisu-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="33517921252314" >
+        <artifact
+            location="/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/build/outputs/apk/RA_NaVisu-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,10 @@
+<resources>
+    <declare-styleable name="StereoLayout">
+        <attr name="depth" format="float" />
+        <attr name="autoPadding" format="boolean" />
+    </declare-styleable>
+
+    <declare-styleable name="HoverableLayout">
+        <attr name="longPressDelay" format="integer" />
+    </declare-styleable>
+</resources>

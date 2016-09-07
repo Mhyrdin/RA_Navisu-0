@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/build/intermediates/res/merged/debug/raw/cube_obj.obj",
+        "source": "/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/src/main/res/raw/cube_obj.obj"
+    },
+    {
+        "merged": "/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/build/intermediates/res/merged/debug/raw/marker.mtl",
+        "source": "/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/src/main/res/raw/marker.mtl"
+    },
+    {
+        "merged": "/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/build/intermediates/res/merged/debug/raw/grid_obj.obj",
+        "source": "/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/src/main/res/raw/grid_obj.obj"
+    },
+    {
+        "merged": "/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/build/intermediates/res/merged/debug/raw/cube_mtl.mtl",
+        "source": "/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/src/main/res/raw/cube_mtl.mtl"
+    },
+    {
+        "merged": "/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/build/intermediates/res/merged/debug/raw/grid_mtl.mtl",
+        "source": "/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/src/main/res/raw/grid_mtl.mtl"
+    },
+    {
+        "merged": "/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/build/intermediates/res/merged/debug/raw/plane_bat_e_mtl.mtl",
+        "source": "/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/src/main/res/raw/plane_bat_e_mtl.mtl"
+    },
+    {
+        "merged": "/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/build/intermediates/res/merged/debug/raw/marker_obj.obj",
+        "source": "/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/src/main/res/raw/marker_obj.obj"
+    },
+    {
+        "merged": "/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/build/intermediates/res/merged/debug/raw/plane_bat_e.obj",
+        "source": "/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/src/main/res/raw/plane_bat_e.obj"
+    }
+]

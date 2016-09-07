@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">RA-NaVisu</string>
+    <string name="poste_de_garde">poste de garde</string>
+    <string name="place_d_armes">place d\'armes</string>
+    <string name="bâtimentE">bâtiment E</string>
+    <string name="bâtimentD">bâtiment D</string>
+    <string name="bâtimentF">bâtiment F</string>
+    <string name="bâtimentL">bâtiment L</string>
+    <string name="bâtimentM">bâtiment M</string>
+    <string name="bâtimentN">bâtiment N</string>
+    <string name="entréeSchreu">entrée Schreu</string>
+    <string name="pointO">point O</string>
+    <string name="gymnase">gymnase</string>
+    <string name="stade">stade</string>
+    <string name="entréeRDE">entrée RDE</string>
+    <string name="coursTennis">cours Tennis</string>
+    <string name="terrainBasket">terrain Basket</string>
+    <string name="pointC">point C</string>
+    <string name="pointP">point P</string>
+    <string name="pointK1">point K1</string>
+    <string name="pointK2">point K2</string>
+    <string name="passerelleEM">"passerelle E-M"</string>
+    <string name="passerelleDL">"passerelle D-L"</string>
+    <string name="avion">avion</string>
+    <string name="M109">M109</string>
+    <string name="L114">L114</string>
+    <string name="title_activity_test_wi_fi">TestWiFiActivity</string>
+</resources>

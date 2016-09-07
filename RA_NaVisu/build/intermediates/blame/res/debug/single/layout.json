@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/build/intermediates/res/merged/debug/layout/navisu3d_view.xml",
+        "source": "/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/src/main/res/layout/navisu3d_view.xml"
+    },
+    {
+        "merged": "/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/build/intermediates/res/merged/debug/layout/test1_ranavisu_ar_3d_view.xml",
+        "source": "/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/src/main/res/layout/test1_ranavisu_ar_3d_view.xml"
+    },
+    {
+        "merged": "/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/build/intermediates/res/merged/debug/layout/activity_test_wi_fi.xml",
+        "source": "/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/src/main/res/layout/activity_test_wi_fi.xml"
+    },
+    {
+        "merged": "/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/build/intermediates/res/merged/debug/layout/navisu_ar_widget_absolute_view.xml",
+        "source": "/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/src/main/res/layout/navisu_ar_widget_absolute_view.xml"
+    },
+    {
+        "merged": "/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/build/intermediates/res/merged/debug/layout/test1_ranavisu_screenshot.xml",
+        "source": "/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/src/main/res/layout/test1_ranavisu_screenshot.xml"
+    },
+    {
+        "merged": "/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/build/intermediates/res/merged/debug/layout/test1_ranavisu_ar_widget_view.xml",
+        "source": "/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/src/main/res/layout/test1_ranavisu_ar_widget_view.xml"
+    },
+    {
+        "merged": "/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/build/intermediates/res/merged/debug/layout/layout_ranavisu.xml",
+        "source": "/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/src/main/res/layout/layout_ranavisu.xml"
+    },
+    {
+        "merged": "/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/build/intermediates/res/merged/debug/layout/pointer_view.xml",
+        "source": "/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/src/main/res/layout/pointer_view.xml"
+    },
+    {
+        "merged": "/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/build/intermediates/res/merged/debug/layout/test1_ranavisu.xml",
+        "source": "/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/src/main/res/layout/test1_ranavisu.xml"
+    }
+]

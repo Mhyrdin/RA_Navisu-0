@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="6f4987e063016e8d1ee99f270f7a99e2302fbe74">
+        <dex dex="/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5161bdc7e9cef3cfaa1def25a1d297ac3f94b233/classes.dex" />
+    </item>
+    <item
+        jar="/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="7d7275d7d44794afe001f39180dcb2de762c139d">
+        <dex dex="/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_77dbde9ea1e04ac6e09f6c1540b70475c8d7fc61/classes.dex" />
+    </item>
+    <item
+        jar="/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/libs/Arrakis.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="65f59ad3de5af8b4fab46814e5787bc8683d21be">
+        <dex dex="/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/build/intermediates/transforms/dex/debug/folders/1000/2/Arrakis_f19701c90a5eaaaf171dd55cd8cd944925739481/classes.dex" />
+    </item>
+    <item
+        jar="/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/libs/Arrakis-support.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="a9a11ed3c088ceb63876d5fb7e8e5dabb90e53b7">
+        <dex dex="/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/build/intermediates/transforms/dex/debug/folders/1000/2/Arrakis-support_2b8fd1f9516bd7126b1aacc71d03e7c53d576677/classes.dex" />
+    </item>
+    <item
+        jar="/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/libs/java_websocket.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="35f488c2a8cb28569c1bbf69abcb1b8b04db8e01">
+        <dex dex="/home/serge/Data/developement/projetRANaVisu/RA_Navisu-0/RA_NaVisu/build/intermediates/transforms/dex/debug/folders/1000/2/java_websocket_7a5cd1e015d944381c0fa2c560a65eb71dbedddc/classes.dex" />
+    </item>
+
+</items>

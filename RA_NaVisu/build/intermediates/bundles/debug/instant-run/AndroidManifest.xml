@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ranavisu.bt200"
+    android:versionCode="1"
+    android:versionName="1.0" >
+    <!--
+                <activity
+                    android:name=".demo.TestWiFiActivity"
+                    android:label="@string/title_activity_test_wi_fi"></activity>
+            </application>
+    -->
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <!-- to make screenshot with video..................................................... -->
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <!-- ................................................................................... -->
+    <application
+        name="net.joinpad.arrakis.support.ArrakisApplication"
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" > <!-- - comment this line for BT-200 -->
+        <!--
+    -<comment to enable application deployment on standard Android devices.
+    You also need to remove libBT200Ctrl/BT200Ctrl.jar in libs folder and
+    add ../Arrakis-support.jar in libs/
+        -->
+
+
+        <!-- MainActivity" -->
+        <activity
+            android:name="ranavisu.bt200.MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="ranavisu.bt200.demo.Test1RaNavisu"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="ranavisu.bt200.demo.TestRaNavisu_screenshot"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape" >
+        </activity>
+
+        <!-- Communicating with NaVisu -->
+        <activity
+            android:name="ranavisu.bt200.demo.TestWiFiActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape" >
+        </activity>
+
+        <!-- DEMO RA-NaVisu -->
+        <activity
+            android:name="ranavisu.bt200.demo.RA_Navisu"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape" >
+        </activity>
+    </application>
+
+</manifest>

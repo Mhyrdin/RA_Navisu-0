@@ -1,11 +1,11 @@
-Application configurée pour mobile. Une ligne à décommenter pour la version lunettes (voir Manifest.xml)
+Application configurï¿½e pour mobile. Une ligne ï¿½ dï¿½commenter pour la version lunettes (voir Manifest.xml)
 ===> Ouvrir ce projet avec Android Studio
-===> Connecter un appareil Android avec le débogage USB activé
-===> Faire un run :
-	- les deux premières activités correspondent à une visite de l'école
+===> Connecter un appareil Android avec le dï¿½bogage USB activï¿½
+===> Description :
+	- les deux premiï¿½res activitï¿½s correspondent ï¿½ une visite de l'ï¿½cole
 	- pour les 2 secondes :
-		- lancer navisu sur un pc connecté au même réseau WiFi
+		- lancer navisu sur un pc connectï¿½ au mï¿½me rï¿½seau WiFi
+		- dans le code, entrer l'IP locale du pc dans la variable IP_NAVISU
 		- charger une route dans Navisu
-		- dans le code entrer l'IP dans la variable IP_NAVISU
-		- lancer l'activité
+		- faire un run
 	
